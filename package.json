@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/monchopena/christmas_lottery_tester/issues"
   },
-  "homepage": "https://github.com/monchopena/christmas_lottery_tester#readme"
+  "homepage": "https://github.com/monchopena/christmas_lottery_tester#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
