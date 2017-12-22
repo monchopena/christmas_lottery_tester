@@ -23,3 +23,5 @@ And then:
 ```shell
 npm start
 ```
+
+🍀🍀🍀 Good luck! 🍀🍀🍀
